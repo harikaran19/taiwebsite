@@ -1,4 +1,4 @@
-import imgImageTransformativeAiLogo from "figma:asset/a4ea5abb170cd15f7c3514a0c18d58fa6805a446.png";
+import imgImageTransformativeAiLogo from "../assets/a4ea5abb170cd15f7c3514a0c18d58fa6805a446.png";
 
 function ImageTransformativeAiLogo() {
   return (

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
 import { Menu, X } from 'lucide-react';
-import logoImg from 'figma:asset/a4ea5abb170cd15f7c3514a0c18d58fa6805a446.png';
+import logoImg from '../../assets/a4ea5abb170cd15f7c3514a0c18d58fa6805a446.png';
 
 const NAV_LINKS = [
   { name: 'Home', href: '#home' },

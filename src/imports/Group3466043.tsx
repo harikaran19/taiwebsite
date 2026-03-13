@@ -1,5 +1,5 @@
 import svgPaths from "./svg-2u8ykxerde";
-import imgJob1 from "figma:asset/490573c4d3061461c3031fd04f41f77bd99ac672.png";
+import imgJob1 from "../assets/490573c4d3061461c3031fd04f41f77bd99ac672.png";
 import { imgEllipse775 } from "./svg-xzo0q";
 
 function Frame7() {
